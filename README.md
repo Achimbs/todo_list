@@ -1,17 +1,17 @@
-# To Do List## 
-Names of contriutor
+# To Do List
+## Names of contriutors
 
 Elijah Achimba
-s## 
-Description of the project's purpo
+
+## Description of the project's purpose
 
 A simple to-do list manager using Python. The program will allow users to **add tasks**, **mark tasks as completed**, **list tasks**, and **remove tasks**.
-s## e
-Complete setup/installation instructi
+
+## Complete setup/installation instructions
 
 This is Jupyter notebook. You need to have the Anaconda environment installed and set up on your local machine, for you to run this notebook. You should therefore open and run this notebook using the Jupyter environment.
-o## ns
-License information with a copyright and 
+
+## License information with a copyright and date
 
 Copyright (c) 2024 Elijah Achimba
 
@@ -31,4 +31,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.date
+SOFTWARE.
